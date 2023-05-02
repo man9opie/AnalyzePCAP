@@ -1,0 +1,2 @@
+To run the code, just run to program and it will ask you the path for your pcap file,
+you can just enter the path and it will do the analysis.
